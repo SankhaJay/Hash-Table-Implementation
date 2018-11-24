@@ -50,6 +50,7 @@ void func(int n){
         }
     }
     while(i != index);
+    return index;
  }
 
 
